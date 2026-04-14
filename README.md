@@ -104,4 +104,5 @@ Open to working with people building:
 MCP servers / agent frameworks
 AI infrastructure & orchestration layers
 Real-world automation systems```
+---
 <p align="center"> ⚡ AI is the interface. Execution is the advantage. </p>
