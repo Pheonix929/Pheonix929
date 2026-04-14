@@ -1,7 +1,7 @@
 # ⚡ Michael van der Merwe
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;MCP+Servers+%7C+Agentic+Platforms;Automation+%7C+Telecom+%7C+Data;Building+Execution-Layer+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering;Internet+Of+Things;AI+Systems+Engineer;MCP+Servers+%7C+Agentic+Platforms;Automation+%7C+Telecom+%7C+Data;Building+Execution-Layer+AI" />
 </p>
 
 <p align="center">
