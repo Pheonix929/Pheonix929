@@ -35,22 +35,6 @@ AI Systems Engineer focused on building the **execution layer for intelligent ag
 - Integrating **Python, SQL (PostgreSQL/PostGIS), and API execution layers**
 - Contributing to **scalable MCP server architecture**
 
-**System Architecture**
-
-
-LLM Agent (Claude / Multi-LLM)
-↓
-MCP Server Layer
-↓
-Tool Orchestration
-↓
-┌───────────────┬───────────────┬───────────────┐
-│ Python Tools │ SQL Engines │ API Systems │
-└───────────────┴───────────────┴───────────────┘
-↓
-Real-world Execution
-
-
 **Focus Areas**
 - Agent reliability & determinism  
 - Tool abstraction & reuse  
