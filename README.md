@@ -66,11 +66,6 @@ AI Systems Engineer focused on building the **execution layer for intelligent ag
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pheonix929&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheonix929&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Pheonix929&theme=tokyonight&hide_border=true" />
 </p>
 
